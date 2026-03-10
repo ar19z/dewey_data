@@ -1,0 +1,19 @@
+# --- DEWEY DATA & SECRETS (CRITICAL) ---
+.env
+dewey_data_downloads/
+job-postings-fixed/
+*.csv
+*.gz
+job_density_map.html
+
+# --- PYTHON & PYCHARM ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.idea/
+
+# --- LOGS & OS ---
+*.log
+.DS_Store

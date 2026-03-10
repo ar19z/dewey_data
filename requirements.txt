@@ -1,0 +1,11 @@
+# Type the following code in the terminal without quotation marks
+# "pip install -r requirements.txt"
+# Python 3.12
+# Download script dependencies
+requests==2.32.3
+tqdm==4.66.4
+python-dotenv==1.0.1
+pandas==2.2.1
+folium==0.16.0
+seaborn==0.13.2
+matplotlib==3.8.3
